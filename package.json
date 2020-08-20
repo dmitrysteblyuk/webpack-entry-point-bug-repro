@@ -1,0 +1,12 @@
+{
+  "name": "webpack-entry-point-bug-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "html-webpack-plugin": "^4.3.0",
+    "webpack": "^5.0.0-beta.28",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
